@@ -18,7 +18,6 @@ It follows a real-world AI deployment workflow:
 ## ✨ Key Features
 
 - 📹 Real-time vehicle detection from video  
-- 🚗 Automatic vehicle classification & counting  
 - 🔢 License plate text detection using OCR  
 - 🎛 Adjustable detection confidence threshold  
 - 📊 Interactive analytics dashboard:
@@ -35,13 +34,15 @@ It follows a real-world AI deployment workflow:
 
 ## 🧠 Models & Technologies
 
-    **Detection & OCR Models**  
-    - Vehicle Detection: **YOLOv8n** (via Ultralytics)  
-    - License-Plate Detection (for ANPR): **YOLOv8 / custom plate model**  
-    - OCR: **EasyOCR**
+Detection & OCR Models
 
-**Tech Stack**  
-    Python · Streamlit · OpenCV · Ultralytics YOLOv8 · EasyOCR · Pandas · Matplotlib · SQLite · Google Colab · VS Code  
+    - Vehicle Detection: YOLOv8n(via Ultralytics)  
+    - License-Plate Detection (for ANPR): YOLOv8 / custom plate model
+    - OCR: EasyOCR
+
+Tech Stack
+
+    -Python · Streamlit · OpenCV · Ultralytics YOLOv8 · EasyOCR · Pandas · Matplotlib · SQLite · Google Colab · VS Code  
 
 ---
 
