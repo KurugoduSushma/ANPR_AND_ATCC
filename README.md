@@ -1,6 +1,6 @@
-# 🚦 Smart Traffic AI System – ANPR & ATCC 
+# 🚦 Smart AI System – ANPR & ATCC 
 
-An end-to-end **Smart Traffic Monitoring System** that combines:
+An end-to-end **Smart Monitoring System** that combines:
 
 - **ANPR (Automatic Number Plate Recognition)** from vehicle images
 - **ATCC (Automatic Traffic & Vehicle Counting)** from traffic videos   
